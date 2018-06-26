@@ -17,6 +17,7 @@ public class HeapSort {
         for (int i = cursor; i >= 0; i--) {
             maxHeap(array, array.length, i);
         }
+        //此处>=1 最准确
         for (int i = array.length - 1; i >= 1; i--) {
             // 经过上面的一些列操作，目前array[0]是当前数组里最大的元素，需要和末尾的元素交换
             swap(array, 0, i);
@@ -30,6 +31,7 @@ public class HeapSort {
         int left = index * 2 + 1;
         int right = index * 2 + 2;
         int maxValue = index;
+        //注意此处比较的时候用maxValue 而不是 index 最后交换位置 用index。
         if (left < heapSize && array[left] > array[maxValue]) {
             maxValue = left;
         }

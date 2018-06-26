@@ -37,6 +37,7 @@ public class RadixSort {
         int[] count = new int[radix];
         int[] bucket = new int[end - begin + 1];
         for (int d = 1; d <= digit; d++) {
+            //注意多个for循环的上下界
             for (i = 0; i < radix; i++) {
                 count[i] = 0;
             }
@@ -63,4 +64,9 @@ public class RadixSort {
     public static int getDigit(int x, int d) {
         return ((x / ((int) Math.pow(10, d - 1))) % 10);
     }
+    /**
+     * public static int getBit(int num, int d){
+     *         return ((num/(int)Math.pow(10,d-1))%10);
+     *     }
+     */
 }
