@@ -14,7 +14,26 @@
     <favorites_list name="AlgorithmCode" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Test222.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/leetcode/c201_300/Test222.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="274">
+              <caret line="28" column="25" selection-start-line="28" selection-start-column="25" selection-end-line="28" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Code_08_CompleteTreeNodeNumber.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/others/tree/Code_08_CompleteTreeNodeNumber.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="393">
+              <caret line="38" column="25" lean-forward="true" selection-start-line="34" selection-start-column="8" selection-end-line="38" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -34,19 +53,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/book/test/Test1.java" />
-        <option value="$PROJECT_DIR$/src/others/bagSeries/Test1.java" />
-        <option value="$PROJECT_DIR$/src/others/bagSeries/Test2.java" />
-        <option value="$PROJECT_DIR$/src/others/bagSeries/Test3.java" />
-        <option value="$PROJECT_DIR$/src/others/bagSeries/Test4.java" />
-        <option value="$PROJECT_DIR$/src/others/bagSeries/Test5.java" />
-        <option value="$PROJECT_DIR$/src/others/bagSeries/test9.java" />
-        <option value="$PROJECT_DIR$/src/others/bagSeries/Test.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/c1_100/Test42.java" />
-        <option value="$PROJECT_DIR$/src/others/sort/BubbleSort.java" />
-        <option value="$PROJECT_DIR$/src/others/sort/SelectSort.java" />
-        <option value="$PROJECT_DIR$/src/others/sort/InsertSort.java" />
-        <option value="$PROJECT_DIR$/src/others/sort/MergeSort.java" />
         <option value="$PROJECT_DIR$/src/others/sort/expand/SmallSum.java" />
         <option value="$PROJECT_DIR$/src/others/sort/expand/QuickSort.java" />
         <option value="$PROJECT_DIR$/src/others/sort/QuickSort.java" />
@@ -73,7 +79,6 @@
         <option value="$PROJECT_DIR$/src/leetcode/c101_200/Test138.java" />
         <option value="$PROJECT_DIR$/src/others/listNode/Code_14_FindFirstIntersectNode.java" />
         <option value="$PROJECT_DIR$/src/others/listNode/FindFirstIntersectNode.java" />
-        <option value="$PROJECT_DIR$/src/others/tree/Test.java" />
         <option value="$PROJECT_DIR$/src/others/tree/Code_07_IsBSTAndCBT.java" />
         <option value="$PROJECT_DIR$/src/others/tree/Code_08_CompleteTreeNodeNumber.java" />
         <option value="$PROJECT_DIR$/src/others/tree/Code_05_PaperFolding.java" />
@@ -85,6 +90,20 @@
         <option value="$PROJECT_DIR$/src/others/sort/expand/Code_08_NetherlandsFlag.java" />
         <option value="$PROJECT_DIR$/src/book/other/BFPRT.java" />
         <option value="$PROJECT_DIR$/src/book/other/expand/Code_03_KMP_T1SubtreeEqualsT2.java" />
+        <option value="$PROJECT_DIR$/src/others/window/Problem_10_AllLessNumSubArray.java" />
+        <option value="$PROJECT_DIR$/src/others/structure/MaxTree.java" />
+        <option value="$PROJECT_DIR$/src/others/structure/SingleStack.java" />
+        <option value="$PROJECT_DIR$/src/others/structure/Problem_09_MaximalRectangle.java" />
+        <option value="$PROJECT_DIR$/src/others/tree/Code_01_MorrisTraversal.java" />
+        <option value="$PROJECT_DIR$/src/others/tree/Test.java" />
+        <option value="$PROJECT_DIR$/src/others/expMatch/ExpMatch.java" />
+        <option value="$PROJECT_DIR$/src/others/expMatch/ExpMatch2.java" />
+        <option value="$PROJECT_DIR$/src/others/dp/Code_03_LCSubsequence.java" />
+        <option value="$PROJECT_DIR$/src/others/dp/Code_04_LCSubstring.java" />
+        <option value="$PROJECT_DIR$/src/others/dp/Test.java" />
+        <option value="$PROJECT_DIR$/src/others/dp/Code_02_LIS.java" />
+        <option value="$PROJECT_DIR$/src/common/TreeNode.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/c201_300/Test222.java" />
       </list>
     </option>
   </component>
@@ -106,8 +125,8 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="10" />
-    <option name="y" value="65" />
+    <option name="x" value="33" />
+    <option name="y" value="116" />
     <option name="width" value="1404" />
     <option name="height" value="784" />
   </component>
@@ -117,8 +136,8 @@
     </navigator>
     <panes>
       <pane id="AndroidView" />
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -135,20 +154,33 @@
               <item name="AlgorithmCode" type="b2602c69:ProjectViewProjectNode" />
               <item name="AlgorithmCode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="book" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="AlgorithmCode" type="b2602c69:ProjectViewProjectNode" />
               <item name="AlgorithmCode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="book" type="462c0819:PsiDirectoryNode" />
-              <item name="other" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AlgorithmCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AlgorithmCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="c201_300" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="AlgorithmCode" type="b2602c69:ProjectViewProjectNode" />
               <item name="AlgorithmCode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="others" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AlgorithmCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AlgorithmCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="others" type="462c0819:PsiDirectoryNode" />
+              <item name="tree" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -168,14 +200,16 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="others.expMatch" />
+      <recent name="others.structure" />
       <recent name="leetcode.c1_100" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/others/dp" />
+      <recent name="$PROJECT_DIR$/src/others/tree" />
+      <recent name="$PROJECT_DIR$/src/others/window" />
       <recent name="$PROJECT_DIR$/src/book/other/expand" />
       <recent name="$PROJECT_DIR$/src/others/sort/expand" />
-      <recent name="$PROJECT_DIR$/src/others/tree" />
-      <recent name="$PROJECT_DIR$/src/others/hash" />
-      <recent name="$PROJECT_DIR$/src/others/listNode" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -190,7 +224,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.BFPRT">
+  <component name="RunManager" selected="Application.Test222">
     <configuration name="BFPRT" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="book.other.BFPRT" />
       <module name="AlgorithmCode" />
@@ -198,6 +232,28 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="book.other.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Code_02_LIS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="others.dp.Code_02_LIS" />
+      <module name="AlgorithmCode" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="others.dp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="others.dp.Test" />
+      <module name="AlgorithmCode" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="others.dp.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -213,35 +269,13 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="others.structure.Test1" />
+    <configuration name="Test222" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.c201_300.Test222" />
       <module name="AlgorithmCode" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="others.structure.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="Test200" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.c101_200.Test200" />
-      <module name="AlgorithmCode" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leetcode.c101_200.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="Test54" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.c1_100.Test54" />
-      <module name="AlgorithmCode" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leetcode.c1_100.*" />
+          <option name="PATTERN" value="leetcode.c201_300.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -288,19 +322,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.Test54" />
-      <item itemvalue="Application.Test1" />
       <item itemvalue="Application.Test" />
-      <item itemvalue="Application.Test200" />
       <item itemvalue="Application.BFPRT" />
+      <item itemvalue="Application.Code_02_LIS" />
+      <item itemvalue="Application.Test (1)" />
+      <item itemvalue="Application.Test222" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BFPRT" />
-        <item itemvalue="Application.Test200" />
+        <item itemvalue="Application.Test222" />
+        <item itemvalue="Application.Test (1)" />
+        <item itemvalue="Application.Code_02_LIS" />
         <item itemvalue="Application.Test" />
-        <item itemvalue="Application.Test1" />
-        <item itemvalue="Application.Test54" />
+        <item itemvalue="Application.BFPRT" />
       </list>
     </recent_temporary>
   </component>
@@ -320,15 +354,17 @@
       <workItem from="1528857042336" duration="3824000" />
       <workItem from="1528863086940" duration="9411000" />
       <workItem from="1528991357904" duration="27034000" />
-      <workItem from="1529410713538" duration="38504000" />
+      <workItem from="1529410713538" duration="45927000" />
+      <workItem from="1530073518364" duration="12789000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="116535000" />
+    <option name="totallyTimeSpent" value="136747000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="10" y="65" width="1404" height="784" extended-state="0" />
+    <frame x="33" y="116" width="1404" height="784" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -336,56 +372,56 @@
       <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50367105" side_tool="true" visible="true" weight="0.18072289" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50367105" side_tool="true" weight="0.18072289" />
       <window_info anchor="right" id="Maven Projects" order="7" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49632892" visible="true" weight="0.18072289" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49632892" visible="true" weight="0.21385542" />
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Designer" order="3" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.7310705" visible="true" weight="0.21218796" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.7310705" visible="true" weight="0.2452276" />
       <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.4065934" />
       <window_info id="Structure" order="1" sideWeight="0.50130546" side_tool="true" weight="0.22312224" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.1509299" />
       <window_info id="UI Designer" order="4" />
       <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4985694" weight="0.34102142" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4985694" weight="0.30120483" />
       <window_info id="Favorites" order="5" sideWeight="0.2689295" side_tool="true" weight="0.22312224" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.4065934" />
     </layout>
     <layout-to-restore>
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.4065934" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49713877" visible="true" weight="0.14168039" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.1509299" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.7310705" visible="true" weight="0.21218796" />
-      <window_info id="Structure" order="1" sideWeight="0.50130546" side_tool="true" weight="0.22312224" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49632892" visible="true" weight="0.18072289" />
       <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32784185" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.7310705" visible="true" weight="0.21218796" />
+      <window_info id="Structure" order="1" sideWeight="0.50130546" side_tool="true" weight="0.22312224" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.1509299" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TODO" order="6" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info id="UI Designer" order="4" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.4065934" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4985694" weight="0.34102142" />
-      <window_info anchor="right" id="Database" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5028612" side_tool="true" weight="0.27769572" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50367105" side_tool="true" visible="true" weight="0.18072289" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info id="Capture Tool" order="6" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32882884" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" id="Database" order="6" />
       <window_info anchor="right" id="Maven Projects" order="7" />
       <window_info id="Favorites" order="5" sideWeight="0.2689295" side_tool="true" weight="0.22312224" />
     </layout-to-restore>
@@ -418,7 +454,7 @@
           <option name="timeStamp" value="12" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="27" />
+      <option name="time" value="32" />
     </breakpoint-manager>
   </component>
   <component name="antWorkspaceConfiguration">
@@ -426,91 +462,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/others/bagSeries/Test5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="5" lean-forward="true" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/others/bagSeries/Test4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="158">
-          <caret line="20" column="22" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/others/bagSeries/Test2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="21" column="13" lean-forward="true" selection-start-line="19" selection-start-column="12" selection-end-line="21" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/others/bagSeries/Test1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="39" lean-forward="true" selection-start-line="12" selection-start-column="8" selection-end-line="13" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/others/bagSeries/test9.java" />
-    <entry file="file://$PROJECT_DIR$/src/others/bagSeries/Test.java" />
-    <entry file="file://$PROJECT_DIR$/src/real/netease/Test7.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-89">
-          <caret line="33" column="53" selection-start-line="33" selection-start-column="53" selection-end-line="33" selection-end-column="53" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/c1_100/Test2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="20" lean-forward="true" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/c1_100/Test42.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="394">
-          <caret line="34" column="9" selection-start-line="34" selection-start-column="9" selection-end-line="34" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/others/sort/SelectSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/others/sort/MergeSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="750">
-          <caret line="50" column="18" selection-start-line="50" selection-start-column="18" selection-end-line="50" selection-end-column="18" />
-          <folding>
-            <marker date="1529304131876" expanded="true" signature="1509:1592" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/others/sort/InsertSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="9" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="9" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/others/sort/QuickSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="36" column="9" selection-start-line="36" selection-start-column="9" selection-end-line="36" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/others/sort/Test.java" />
     <entry file="file://$PROJECT_DIR$/src/others/sort/BubbleSort.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -604,9 +555,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -645,9 +593,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="736">
           <caret line="66" column="29" lean-forward="true" selection-start-line="66" selection-start-column="29" selection-end-line="66" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -662,23 +607,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="20" column="32" lean-forward="true" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/others/tree/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="17" column="17" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/others/tree/Code_07_IsBSTAndCBT.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/others/tree/Code_08_CompleteTreeNodeNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="30" column="9" lean-forward="true" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
         </state>
       </provider>
     </entry>
@@ -750,6 +678,104 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/book/other/expand/Code_03_KMP_T1SubtreeEqualsT2.java">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/others/window/Problem_07_SlidingWindowMaxArray.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/others/structure/SingleStack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="47" lean-forward="true" selection-start-line="6" selection-start-column="47" selection-end-line="6" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/others/window/Problem_10_AllLessNumSubArray.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/others/tree/Code_01_MorrisTraversal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="443">
+          <caret line="89" column="16" selection-start-line="89" selection-start-column="12" selection-end-line="89" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/others/structure/Problem_09_MaximalRectangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="37" column="22" selection-start-line="37" selection-start-column="22" selection-end-line="37" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/others/expMatch/ExpMatch.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/others/tree/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="615">
+          <caret line="41" column="5" lean-forward="true" selection-start-line="41" selection-start-column="5" selection-end-line="41" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/others/expMatch/ExpMatch2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="25" lean-forward="true" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/others/dp/Code_04_LCSubstring.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-402" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/others/dp/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="17" lean-forward="true" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/others/dp/Code_02_LIS.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="28" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/others/dp/Code_03_LCSubsequence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="29" column="31" selection-start-line="29" selection-start-column="26" selection-end-line="29" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/others/tree/Code_07_IsBSTAndCBT.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-925">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/common/TreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/c201_300/Test222.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="274">
+          <caret line="28" column="25" selection-start-line="28" selection-start-column="25" selection-end-line="28" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/others/tree/Code_08_CompleteTreeNodeNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="393">
+          <caret line="38" column="25" lean-forward="true" selection-start-line="34" selection-start-column="8" selection-end-line="38" selection-end-column="25" />
+        </state>
+      </provider>
     </entry>
   </component>
   <component name="masterDetails">
