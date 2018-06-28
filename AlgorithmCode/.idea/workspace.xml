@@ -15,20 +15,54 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Test222.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/leetcode/c201_300/Test222.java">
+      <file leaf-file-name="Deque_PriQ.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/others/structure/Deque_PriQ.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="274">
-              <caret line="28" column="25" selection-start-line="28" selection-start-column="25" selection-end-line="28" selection-end-column="25" />
+            <state relative-caret-position="341">
+              <caret line="43" column="34" selection-start-line="43" selection-start-column="34" selection-end-line="43" selection-end-column="34" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#251#252#0" expanded="true" />
+                <element signature="e#276#277#0" expanded="true" />
+                <element signature="e#309#310#0" expanded="true" />
+                <element signature="e#337#338#0" expanded="true" />
+                <element signature="e#368#369#0" expanded="true" />
+                <element signature="e#395#396#0" expanded="true" />
+                <element signature="e#435#436#0" expanded="true" />
+                <element signature="e#467#468#0" expanded="true" />
+                <element signature="e#470#471#0" expanded="true" />
+                <element signature="e#522#523#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Code_08_CompleteTreeNodeNumber.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/others/tree/Code_08_CompleteTreeNodeNumber.java">
+      <file leaf-file-name="BlockingDeque.java" pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/concurrent/BlockingDeque.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="393">
-              <caret line="38" column="25" lean-forward="true" selection-start-line="34" selection-start-column="8" selection-end-line="38" selection-end-column="25" />
+            <state relative-caret-position="123">
+              <caret line="631" column="7" lean-forward="true" selection-start-line="631" selection-start-column="7" selection-end-line="631" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LinkedBlockingQueue.java" pinned="false" current-in-tab="true">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/concurrent/LinkedBlockingQueue.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-659">
+              <caret line="80" column="32" selection-start-line="80" selection-start-column="19" selection-end-line="80" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PriorityQueue.java" pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/PriorityQueue.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="873">
+              <caret line="297" column="21" selection-start-line="297" selection-start-column="21" selection-end-line="297" selection-end-column="21" />
+              <folding>
+                <element signature="e#19874#19904#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -45,6 +79,12 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>int</find>
+      <find>deque</find>
+      <find>priorityQueue</find>
+      <find>offer</find>
+      <find>grow</find>
+      <find>blockingQueue</find>
+      <find>LinkedblockingQueue</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -53,20 +93,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/others/sort/expand/SmallSum.java" />
-        <option value="$PROJECT_DIR$/src/others/sort/expand/QuickSort.java" />
-        <option value="$PROJECT_DIR$/src/others/sort/QuickSort.java" />
-        <option value="$PROJECT_DIR$/src/others/sort/Test1.java" />
-        <option value="$PROJECT_DIR$/src/others/sort/Test.java" />
-        <option value="$PROJECT_DIR$/src/others/sort/Test2.java" />
-        <option value="$PROJECT_DIR$/src/others/sort/QuickSort2.java" />
-        <option value="$PROJECT_DIR$/src/others/sort/Test3.java" />
-        <option value="$PROJECT_DIR$/src/others/sort/HeapSort.java" />
-        <option value="$PROJECT_DIR$/src/others/sort/ShellSort.java" />
-        <option value="$PROJECT_DIR$/src/others/sort/Test4.java" />
-        <option value="$PROJECT_DIR$/src/others/sort/RadixSort.java" />
-        <option value="$PROJECT_DIR$/src/others/sort/expand/MaxGap.java" />
-        <option value="$PROJECT_DIR$/src/others/structure/TwoStackQueue.java" />
         <option value="$PROJECT_DIR$/src/others/structure/TwoQueueStack.java" />
         <option value="$PROJECT_DIR$/src/others/structure/Test2.java" />
         <option value="$PROJECT_DIR$/src/leetcode/c1_100/Test54.java" />
@@ -94,8 +120,6 @@
         <option value="$PROJECT_DIR$/src/others/structure/MaxTree.java" />
         <option value="$PROJECT_DIR$/src/others/structure/SingleStack.java" />
         <option value="$PROJECT_DIR$/src/others/structure/Problem_09_MaximalRectangle.java" />
-        <option value="$PROJECT_DIR$/src/others/tree/Code_01_MorrisTraversal.java" />
-        <option value="$PROJECT_DIR$/src/others/tree/Test.java" />
         <option value="$PROJECT_DIR$/src/others/expMatch/ExpMatch.java" />
         <option value="$PROJECT_DIR$/src/others/expMatch/ExpMatch2.java" />
         <option value="$PROJECT_DIR$/src/others/dp/Code_03_LCSubsequence.java" />
@@ -104,6 +128,22 @@
         <option value="$PROJECT_DIR$/src/others/dp/Code_02_LIS.java" />
         <option value="$PROJECT_DIR$/src/common/TreeNode.java" />
         <option value="$PROJECT_DIR$/src/leetcode/c201_300/Test222.java" />
+        <option value="$PROJECT_DIR$/src/others/tree/Code_02_SkipList.java" />
+        <option value="$PROJECT_DIR$/src/offer/Test1.java" />
+        <option value="$PROJECT_DIR$/src/common/ListNode.java" />
+        <option value="$PROJECT_DIR$/src/offer/Test3.java" />
+        <option value="$PROJECT_DIR$/src/offer/Test4.java" />
+        <option value="$PROJECT_DIR$/src/others/tree/Test.java" />
+        <option value="$PROJECT_DIR$/src/others/tree/Code_01_MorrisTraversal.java" />
+        <option value="$PROJECT_DIR$/src/offer/Test5.java" />
+        <option value="$PROJECT_DIR$/src/offer/Test6.java" />
+        <option value="$PROJECT_DIR$/src/offer/Test7.java" />
+        <option value="$PROJECT_DIR$/src/offer/Test8.java" />
+        <option value="$PROJECT_DIR$/src/offer/Test9.java" />
+        <option value="$PROJECT_DIR$/src/offer/Test10.java" />
+        <option value="$PROJECT_DIR$/src/real/netease/autumn2017/Test1.java" />
+        <option value="$PROJECT_DIR$/src/others/structure/Test.java" />
+        <option value="$PROJECT_DIR$/src/others/structure/Deque_PriQ.java" />
       </list>
     </option>
   </component>
@@ -125,8 +165,8 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="33" />
-    <option name="y" value="116" />
+    <option name="x" value="25" />
+    <option name="y" value="29" />
     <option name="width" value="1404" />
     <option name="height" value="784" />
   </component>
@@ -154,25 +194,6 @@
               <item name="AlgorithmCode" type="b2602c69:ProjectViewProjectNode" />
               <item name="AlgorithmCode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="common" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AlgorithmCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AlgorithmCode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AlgorithmCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AlgorithmCode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="c201_300" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AlgorithmCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AlgorithmCode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="others" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -180,7 +201,15 @@
               <item name="AlgorithmCode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="others" type="462c0819:PsiDirectoryNode" />
-              <item name="tree" type="462c0819:PsiDirectoryNode" />
+              <item name="structure" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AlgorithmCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AlgorithmCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="others" type="462c0819:PsiDirectoryNode" />
+              <item name="structure" type="462c0819:PsiDirectoryNode" />
+              <item name="Deque_PriQ.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
           </expand>
           <select />
@@ -189,14 +218,14 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="SearchEverywhereHistoryKey" value="Arrays&#9;PSI&#9;JAVA://java.util.Arrays" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/heyu/Desktop/myGit/algorithm/AlgorithmCode/src/offer/Test3.java&#10;Arrays&#9;PSI&#9;JAVA://java.util.Arrays" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -205,8 +234,8 @@
       <recent name="leetcode.c1_100" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/others/dp" />
       <recent name="$PROJECT_DIR$/src/others/tree" />
+      <recent name="$PROJECT_DIR$/src/others/dp" />
       <recent name="$PROJECT_DIR$/src/others/window" />
       <recent name="$PROJECT_DIR$/src/book/other/expand" />
       <recent name="$PROJECT_DIR$/src/others/sort/expand" />
@@ -224,25 +253,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Test222">
-    <configuration name="BFPRT" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="book.other.BFPRT" />
+  <component name="RunManager" selected="Application.Deque_PriQ">
+    <configuration name="Deque_PriQ" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="others.structure.Deque_PriQ" />
       <module name="AlgorithmCode" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="book.other.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="Code_02_LIS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="others.dp.Code_02_LIS" />
-      <module name="AlgorithmCode" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="others.dp.*" />
+          <option name="PATTERN" value="others.structure.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -258,13 +276,24 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="others.tree.Test" />
+    <configuration name="Test1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="real.netease.autumn2017.Test1" />
       <module name="AlgorithmCode" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="others.tree.*" />
+          <option name="PATTERN" value="real.netease.autumn2017.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="offer.Test1" />
+      <module name="AlgorithmCode" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="offer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -322,19 +351,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.Test" />
-      <item itemvalue="Application.BFPRT" />
-      <item itemvalue="Application.Code_02_LIS" />
       <item itemvalue="Application.Test (1)" />
       <item itemvalue="Application.Test222" />
+      <item itemvalue="Application.Test1" />
+      <item itemvalue="Application.Test1 (1)" />
+      <item itemvalue="Application.Deque_PriQ" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Deque_PriQ" />
+        <item itemvalue="Application.Test1 (1)" />
+        <item itemvalue="Application.Test1" />
         <item itemvalue="Application.Test222" />
         <item itemvalue="Application.Test (1)" />
-        <item itemvalue="Application.Code_02_LIS" />
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.BFPRT" />
       </list>
     </recent_temporary>
   </component>
@@ -355,15 +384,15 @@
       <workItem from="1528863086940" duration="9411000" />
       <workItem from="1528991357904" duration="27034000" />
       <workItem from="1529410713538" duration="45927000" />
-      <workItem from="1530073518364" duration="12789000" />
+      <workItem from="1530073518364" duration="32156000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="136747000" />
+    <option name="totallyTimeSpent" value="156114000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="33" y="116" width="1404" height="784" extended-state="0" />
+    <frame x="25" y="29" width="1404" height="784" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -375,7 +404,7 @@
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50367105" side_tool="true" weight="0.18072289" />
       <window_info anchor="right" id="Maven Projects" order="7" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49632892" visible="true" weight="0.21385542" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49632892" weight="0.25753012" />
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info id="Capture Tool" order="6" />
@@ -387,7 +416,7 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.1509299" />
       <window_info id="UI Designer" order="4" />
       <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4985694" weight="0.30120483" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4985694" weight="0.17319277" />
       <window_info id="Favorites" order="5" sideWeight="0.2689295" side_tool="true" weight="0.22312224" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -453,8 +482,14 @@
           <properties />
           <option name="timeStamp" value="12" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/offer/Test1.java</url>
+          <line>10</line>
+          <properties />
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="32" />
+      <option name="time" value="35" />
     </breakpoint-manager>
   </component>
   <component name="antWorkspaceConfiguration">
@@ -462,112 +497,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/others/sort/Test.java" />
-    <entry file="file://$PROJECT_DIR$/src/others/sort/BubbleSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="31" column="5" lean-forward="true" selection-start-line="27" selection-start-column="4" selection-end-line="31" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/others/sort/ShellSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="23" column="8" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/others/sort/Test1.java" />
-    <entry file="file://$PROJECT_DIR$/src/others/sort/RadixSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="385">
-          <caret line="68" column="28" selection-start-line="68" selection-start-column="28" selection-end-line="68" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/others/sort/Test2.java" />
-    <entry file="file://$PROJECT_DIR$/src/others/sort/Test4.java" />
-    <entry file="file://$PROJECT_DIR$/src/others/sort/Test3.java" />
-    <entry file="file://$PROJECT_DIR$/src/others/sort/HeapSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="9" lean-forward="true" selection-start-line="4" selection-start-column="8" selection-end-line="8" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/others/sort/expand/SmallSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="30" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/others/sort/expand/MaxGap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-277">
-          <caret line="11" column="8" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/book/stack_queue/RecursiveStack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/book/stack_queue/TwoStackImplQueue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/book/stack_queue/MyStack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="14" column="33" lean-forward="true" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/others/structure/Test2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="47" selection-start-line="27" selection-start-column="47" selection-end-line="27" selection-end-column="47" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#574#575#0" expanded="true" />
-            <element signature="e#608#609#0" expanded="true" />
-            <element signature="e#653#654#0" expanded="true" />
-            <element signature="e#708#709#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/others/structure/TwoStackQueue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="34" column="3" lean-forward="true" selection-start-line="34" selection-start-column="3" selection-end-line="34" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/c1_100/Test54.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/others/structure/TwoQueueStack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="455">
-          <caret line="75" selection-start-line="75" selection-end-line="75" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/others/matrix/RotateSquare.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
@@ -692,13 +621,6 @@
     <entry file="file://$PROJECT_DIR$/src/others/window/Problem_10_AllLessNumSubArray.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/others/tree/Code_01_MorrisTraversal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="443">
-          <caret line="89" column="16" selection-start-line="89" selection-start-column="12" selection-end-line="89" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/others/structure/Problem_09_MaximalRectangle.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="555">
@@ -708,13 +630,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/others/expMatch/ExpMatch.java">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/others/tree/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="615">
-          <caret line="41" column="5" lean-forward="true" selection-start-line="41" selection-start-column="5" selection-end-line="41" selection-end-column="5" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/others/expMatch/ExpMatch2.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -756,13 +671,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/common/TreeNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/leetcode/c201_300/Test222.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="274">
@@ -770,10 +678,183 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/others/tree/Code_02_SkipList.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/others/tree/Code_08_CompleteTreeNodeNumber.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="393">
-          <caret line="38" column="25" lean-forward="true" selection-start-line="34" selection-start-column="8" selection-end-line="38" selection-end-column="25" />
+        <state relative-caret-position="408">
+          <caret line="39" column="4" lean-forward="true" selection-start-line="39" selection-start-column="4" selection-end-line="39" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/offer/Test1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="12" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/common/ListNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="4" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+          <folding>
+            <element signature="e#120#121#0" expanded="true" />
+            <element signature="e#149#150#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/common/TreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="15" selection-start-column="15" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/offer/Test3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <marker date="1530105847164" expanded="true" signature="627:1313" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/offer/Test4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="18" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/others/tree/Code_01_MorrisTraversal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-842">
+          <caret line="114" column="25" lean-forward="true" selection-start-line="114" selection-start-column="25" selection-end-line="114" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/others/tree/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="26" lean-forward="true" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/offer/Test5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="5" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="23" selection-end-column="5" />
+          <folding>
+            <element signature="e#75#84#0" expanded="true" />
+            <element signature="e#125#134#0" expanded="true" />
+            <element signature="e#195#196#0" expanded="true" />
+            <element signature="e#211#212#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/others/structure/TwoStackQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5">
+          <caret line="36" column="26" lean-forward="true" selection-start-line="36" selection-start-column="26" selection-end-line="36" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/offer/Test6.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="5" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="24" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/offer/Test8.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/offer/Test7.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="24" lean-forward="true" selection-start-line="6" selection-start-column="8" selection-end-line="15" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/offer/Test9.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/offer/Test10.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="11" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/real/netease/autumn2017/Test1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="25" column="35" selection-start-line="25" selection-start-column="35" selection-end-line="25" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/concurrent/LinkedBlockingDeque.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="48" column="45" selection-start-line="48" selection-start-column="45" selection-end-line="48" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/PriorityQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="873">
+          <caret line="297" column="21" selection-start-line="297" selection-start-column="21" selection-end-line="297" selection-end-column="21" />
+          <folding>
+            <element signature="e#19874#19904#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/others/structure/Deque_PriQ.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="341">
+          <caret line="43" column="34" selection-start-line="43" selection-start-column="34" selection-end-line="43" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#251#252#0" expanded="true" />
+            <element signature="e#276#277#0" expanded="true" />
+            <element signature="e#309#310#0" expanded="true" />
+            <element signature="e#337#338#0" expanded="true" />
+            <element signature="e#368#369#0" expanded="true" />
+            <element signature="e#395#396#0" expanded="true" />
+            <element signature="e#435#436#0" expanded="true" />
+            <element signature="e#467#468#0" expanded="true" />
+            <element signature="e#470#471#0" expanded="true" />
+            <element signature="e#522#523#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/concurrent/BlockingDeque.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="631" column="7" lean-forward="true" selection-start-line="631" selection-start-column="7" selection-end-line="631" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/concurrent/LinkedBlockingQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-659">
+          <caret line="80" column="32" selection-start-line="80" selection-start-column="19" selection-end-line="80" selection-end-column="32" />
         </state>
       </provider>
     </entry>

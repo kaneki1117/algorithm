@@ -77,6 +77,7 @@ public class Code_01_MorrisTraversal {
 					cur2 = cur2.right;
 				}
 				if (cur2.right == null) {
+					//第一次来到节点时
 					cur2.right = cur1;
 					System.out.print(cur1.value + " ");
 					cur1 = cur1.left;
@@ -84,6 +85,7 @@ public class Code_01_MorrisTraversal {
 				} else {
 					cur2.right = null;
 				}
+				//没有左子树时 第一次和第二次是重合的。所以这里需要打印。
 			} else {
 				System.out.print(cur1.value + " ");
 			}
@@ -110,11 +112,13 @@ public class Code_01_MorrisTraversal {
 					continue;
 				} else {
 					cur2.right = null;
+					//第二次达到时打印左子树的右边界
 					printEdge(cur1.left);
 				}
 			}
 			cur1 = cur1.right;
 		}
+		//退出之前打印整颗树的右边界
 		printEdge(head);
 		System.out.println();
 	}
